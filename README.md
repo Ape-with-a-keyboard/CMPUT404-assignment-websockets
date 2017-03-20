@@ -57,3 +57,5 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Vinson Lai
+* Larin Chen
